@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Susanna</h1>
 <h3 align="center">Rome 42 School Student and python developer</h3>
+[![skayed's 42 stats](https://badge.mediaplus.ma/kettlebells/skayed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susannakay&label=Profile%20views&color=0e75b6&style=flat" alt="susannakay" /> </p>
 
