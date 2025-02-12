@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Susanna</h1>
 <h3 align="center">Rome 42 School Student and python developer</h3><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/skayed?1337Badge=off&UM6P=off" alt="skayed's 42 stats" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susannakay&label=Profile%20views&color=0e75b6&style=flat" alt="susannakay" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=susannakay&label=Profile%20views&color=0e75b6&style=flat" alt="susannakay" /> </p>
 
 - 🔭 I’m currently working on **C based project**
 
