@@ -15,7 +15,6 @@ That curiosity led me to **42 Roma Luiss**, where I fell in love with **low-leve
 ---
 
 ### 🔭 Current Focus
-- 🧱 `Cub3D` → exploring raycasting & 3D rendering basics  
 - 🧩 Learning **C++ STL** and **object-oriented design patterns**
 
 ---
@@ -49,7 +48,7 @@ That curiosity led me to **42 Roma Luiss**, where I fell in love with **low-leve
 | Philosophers | C / Threads | Dining Philosophers concurrency problem (mutexes) | 100% |
 | NetPractice | Networking | Subnetting & routing exercises | 100% |
 | Minishell | C | Custom shell (parser, pipes, env, signals) | 95% |
-| Cub3D | C / Graphics | Raycasting engine inspired by Wolfenstein 3D | In progress |
+| Cub3D | C / Graphics | Raycasting engine inspired by Wolfenstein 3D | 101% |
 | CPP Modules | C++ | OOP, inheritance, polymorphism, RAII | In progress |
 
 
