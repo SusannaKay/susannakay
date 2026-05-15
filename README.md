@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Susanna Kayed</h1>
-<h3 align="center">42 Roma Luiss | C & C++ Developer | Python Automator</h3>
+<h3 align="center">42 Roma Elis | C & C++ Developer | Python Automator</h3>
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/kettlebells/skayed?1337Badge=off&UM6P=off" alt="skayed's 42 badge" />
