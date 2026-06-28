@@ -38,18 +38,20 @@ That curiosity led me to **42 Roma Luiss**, where I fell in love with **low-leve
 
 | Project | Tech | Description | Score |
 |:--------|:-----|:------------|:-----:|
-| Libft | C | Custom implementation of libc functions + utils | 125% |
-| Born2beroot | Linux / Sysadmin | Secure Debian VM setup & hardening | 110% |
-| Get Next Line | C | File reading line-by-line with manual memory management | 125% |
-| Ft_printf | C | Reimplementation of `printf` | 125% |
-| So_long | C / MiniLibX | 2D game engine (sprites, events, path validation) | 125% |
+| Libft | C | Custom implementation of libc functions + utilities | 125% |
+| Born2beroot | Linux / Sysadmin | Secure Debian VM setup, services, and system hardening | 110% |
+| Get Next Line | C | Read files line-by-line with manual memory management | 125% |
+| Ft_printf | C | Reimplementation of the standard `printf` function | 125% |
+| So_long | C / MiniLibX | 2D game with sprites, events, collectibles, and path validation | 125% |
 | Pipex | C / UNIX | Recreate shell pipes and redirections (`cmd1 \| cmd2 > file`) | 100% |
-| Push_swap | C / Algorithms | Stack-based sorting under instruction limits | 84% |
-| Philosophers | C / Threads | Dining Philosophers concurrency problem (mutexes) | 100% |
-| NetPractice | Networking | Subnetting & routing exercises | 100% |
-| Minishell | C | Custom shell (parser, pipes, env, signals) | 95% |
-| Cub3D | C / Graphics | Raycasting engine inspired by Wolfenstein 3D | 101% |
-| CPP Modules | C++ | OOP, inheritance, polymorphism, RAII | In progress |
+| Push_swap | C / Algorithms | Stack-based sorting algorithm under strict operation constraints | 84% |
+| Philosophers | C / Threads | Dining Philosophers concurrency problem using mutexes | 100% |
+| NetPractice | Networking | IP addressing, subnetting, and routing exercises | 100% |
+| Minishell | C / UNIX | Unix shell featuring parsing, pipes, redirections, environment variables, and signals | 95% |
+| Cub3D | C / MiniLibX | Raycasting engine inspired by Wolfenstein 3D | 101% |
+| CPP Modules | C++98 | Object-oriented programming, templates, STL, inheritance, and RAII | 100% |
+| Inception | Docker / Docker Compose | Multi-container infrastructure with NGINX, WordPress, MariaDB, custom Docker images, volumes, and networking | In Progress |
+
 
 
 ---
