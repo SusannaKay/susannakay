@@ -42,7 +42,7 @@ Now I turn ideas into working products. AI writes fast; 42 taught me what's unde
 - **Chewse**, 2-day hackathon: an AI pipeline that scores food products and suggests better ones ([code](https://github.com/SusannaKay/Chewse))
 - **Game jam in Matera**: 2nd place at the Lucania Film Festival
 
-## The 42 path, written by hand
+## The 42 path, things I've learned
 
 [libft](https://github.com/SusannaKay/libft) →
 Born2beroot →
