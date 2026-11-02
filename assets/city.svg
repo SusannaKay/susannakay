@@ -5,9 +5,9 @@
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d1220"/><stop offset="1" stop-color="#0d0b10"/></linearGradient></defs>
 <rect x="1" y="1" width="898" height="418" rx="14" fill="url(#g)"/>
 <text x="36" y="70" font-size="11" letter-spacing="2.4" font-weight="700" fill="#ff6fae">CONTRIBUTION CITY</text>
-<text x="36" y="112" font-size="38" font-weight="700" fill="#ece7f1">556</text>
+<text x="36" y="112" font-size="38" font-weight="700" fill="#ece7f1">565</text>
 <text x="36" y="136" font-size="12" fill="#b9b0c4">contributions in the last year</text>
-<text x="36" y="172" font-size="12" font-weight="700" fill="#ece7f1">113 active days</text>
+<text x="36" y="172" font-size="12" font-weight="700" fill="#ece7f1">115 active days</text>
 <text x="36" y="192" font-size="12" font-weight="700" fill="#ece7f1">Busiest day: 36</text>
 <text x="36" y="210" font-size="11" fill="#7d7488">Jun 28, 2026</text>
 <text x="36" y="380" font-size="11" fill="#7d7488">@SusannaKay</text>
@@ -1034,9 +1034,9 @@
 <polygon points="763.2,315.3 770.2,318.3 770.2,316.3 763.2,313.3" fill="#1c141d"/>
 <polygon points="777.5,314.6 770.2,318.3 770.2,316.3 777.5,312.6" fill="#221823"/>
 <polygon points="770.4,309.7 777.5,312.6 770.2,316.3 763.2,313.3" fill="#2a1d29"/>
-<polygon points="839.6,315.6 846.6,318.6 846.6,316.6 839.6,313.6" fill="#1c141d"/>
-<polygon points="853.9,314.9 846.6,318.6 846.6,316.6 853.9,312.9" fill="#221823"/>
-<polygon points="846.8,310.0 853.9,312.9 846.6,316.6 839.6,313.6" fill="#2a1d29"/>
+<polygon points="839.6,315.6 846.6,318.6 846.6,280.2 839.6,277.3" fill="#863558"/>
+<polygon points="853.9,314.9 846.6,318.6 846.6,280.2 853.9,276.6" fill="#b14775"/>
+<polygon points="846.8,273.6 853.9,276.6 846.6,280.2 839.6,277.3" fill="#ff66a8"/>
 <polygon points="746.2,316.1 753.2,319.1 753.2,283.0 746.2,280.0" fill="#863558"/>
 <polygon points="760.5,315.4 753.2,319.1 753.2,283.0 760.5,279.4" fill="#b14775"/>
 <polygon points="753.4,276.4 760.5,279.4 753.2,283.0 746.2,280.0" fill="#ff66a8"/>
@@ -1058,6 +1058,9 @@
 <polygon points="754.6,319.6 761.6,322.6 761.6,301.5 754.6,298.5" fill="#682a47"/>
 <polygon points="768.9,318.9 761.6,322.6 761.6,301.5 768.9,297.8" fill="#8a385e"/>
 <polygon points="761.8,294.9 768.9,297.8 761.6,301.5 754.6,298.5" fill="#c75187"/>
+<polygon points="831.0,319.9 838.0,322.9 838.0,306.5 831.0,303.6" fill="#682a47"/>
+<polygon points="845.3,319.2 838.0,322.9 838.0,306.5 845.3,302.9" fill="#8a385e"/>
+<polygon points="838.2,300.0 845.3,302.9 838.0,306.5 831.0,303.6" fill="#c75187"/>
 <polygon points="737.6,320.4 744.6,323.4 744.6,321.4 737.6,318.4" fill="#1c141d"/>
 <polygon points="751.9,319.7 744.6,323.4 744.6,321.4 751.9,317.7" fill="#221823"/>
 <polygon points="744.8,314.8 751.9,317.7 744.6,321.4 737.6,318.4" fill="#2a1d29"/>
