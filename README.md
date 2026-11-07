@@ -28,7 +28,7 @@ Now I turn ideas into working products. AI writes fast; 42 taught me what's unde
 
 ## Side quests
 
-Brainyard at HackRome 2026 (backend) · Chewse, a 2-day AI hackathon · Game jam in Matera, 2nd place at the Lucania Film Festival
+Brainyard at HackRome 2026 (backend) · Chewse, a 2-day AI hackathon · Game jam in Matera, 2nd place at the Lucania Film Commission
 
 <p align="center">
   <img src="assets/city.svg" width="100%" alt="Contribution city: my GitHub contributions over the last year, one building per day">
